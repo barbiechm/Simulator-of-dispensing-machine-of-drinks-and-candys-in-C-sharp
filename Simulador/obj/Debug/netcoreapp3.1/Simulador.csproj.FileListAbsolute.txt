@@ -1,0 +1,13 @@
+C:\Users\Barba\source\repos\Simulador\Simulador\bin\Debug\netcoreapp3.1\Simulador.exe
+C:\Users\Barba\source\repos\Simulador\Simulador\bin\Debug\netcoreapp3.1\Simulador.deps.json
+C:\Users\Barba\source\repos\Simulador\Simulador\bin\Debug\netcoreapp3.1\Simulador.runtimeconfig.json
+C:\Users\Barba\source\repos\Simulador\Simulador\bin\Debug\netcoreapp3.1\Simulador.runtimeconfig.dev.json
+C:\Users\Barba\source\repos\Simulador\Simulador\bin\Debug\netcoreapp3.1\Simulador.dll
+C:\Users\Barba\source\repos\Simulador\Simulador\bin\Debug\netcoreapp3.1\Simulador.pdb
+C:\Users\Barba\source\repos\Simulador\Simulador\obj\Debug\netcoreapp3.1\Simulador.csprojAssemblyReference.cache
+C:\Users\Barba\source\repos\Simulador\Simulador\obj\Debug\netcoreapp3.1\Simulador.AssemblyInfoInputs.cache
+C:\Users\Barba\source\repos\Simulador\Simulador\obj\Debug\netcoreapp3.1\Simulador.AssemblyInfo.cs
+C:\Users\Barba\source\repos\Simulador\Simulador\obj\Debug\netcoreapp3.1\Simulador.csproj.CoreCompileInputs.cache
+C:\Users\Barba\source\repos\Simulador\Simulador\obj\Debug\netcoreapp3.1\Simulador.dll
+C:\Users\Barba\source\repos\Simulador\Simulador\obj\Debug\netcoreapp3.1\Simulador.pdb
+C:\Users\Barba\source\repos\Simulador\Simulador\obj\Debug\netcoreapp3.1\Simulador.genruntimeconfig.cache
